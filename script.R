@@ -1,4 +1,3 @@
-
 #################################################################
 # Series temporelles : dynamique d’adhesions a un parti politique
 #################################################################
@@ -9,10 +8,10 @@
 # Chargement scripts annexes
 ############################
 
-setwd("~/dossier personnel/ACTION/upr/serie temp adherents")
-source('~/dossier personnel/ACTION/upr/serie temp adherents/script_fonctions.R', encoding = 'UTF-8', echo=F)
-source('~/dossier personnel/ACTION/upr/serie temp adherents/script_packages.R', encoding = 'UTF-8', echo=F)
-source('~/dossier personnel/ACTION/upr/serie temp adherents/script_data.R', encoding = 'UTF-8', echo=F)
+setwd("~/serie temp adherents")
+source('~/script_fonctions.R', encoding = 'UTF-8', echo=F)
+source('~/script_packages.R', encoding = 'UTF-8', echo=F)
+source('~/script_data.R', encoding = 'UTF-8', echo=F)
 
 
 # Tableau de donnees
